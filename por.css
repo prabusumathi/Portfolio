@@ -1,0 +1,45 @@
+*{
+  width: 100%;
+ 
+}
+.banner{
+ 
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-image: url(img/prabu.jpg);
+    
+  padding: 250px 0px;
+  
+  background-size: cover;
+background-position: center;
+ background-repeat: no-repeat;
+}
+
+nav{
+    background-image: url(img/cloud.webp);
+   
+    position: relative;
+    background-size: cover; 
+    background-position: center;
+   
+}
+.nav-link{
+  
+    cursor: pointer;
+   
+    
+}
+ 
+nav{
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.fa-brands{
+  color: white;
+
+display: flex;
+flex-wrap: wrap;
+  
+}
